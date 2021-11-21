@@ -1,0 +1,2 @@
+echo Greetings!
+echo Hello $USER, it nice to meet you!
